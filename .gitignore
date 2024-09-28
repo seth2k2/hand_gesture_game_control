@@ -1,0 +1,7 @@
+data.pickle
+train_images
+model.p
+*.log
+.vscode/
+.idea/
+.venv
